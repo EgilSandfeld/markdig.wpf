@@ -6,7 +6,7 @@
     <AssemblyName>Markdig.Wpf.SampleAppCustomized</AssemblyName>
     <AssemblyTitle>Markdig.Wpf.SampleAppCustomized</AssemblyTitle>
     <NeutralLanguage>en-US</NeutralLanguage>
-    <VersionPrefix>0.5.0.1</VersionPrefix>
+    <VersionPrefix>0.5.0.2</VersionPrefix>
     <ApplicationIcon />
     <OutputType>WinExe</OutputType>
     <StartupObject />

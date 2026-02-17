@@ -6,7 +6,7 @@
     <AssemblyName>Markdig.Wpf</AssemblyName>
     <AssemblyTitle>Markdig.Wpf</AssemblyTitle>
     <NeutralLanguage>en-US</NeutralLanguage>
-    <VersionPrefix>0.5.0.1</VersionPrefix>
+    <VersionPrefix>0.5.0.2</VersionPrefix>
     <SignAssembly Condition="'$(Configuration)' == 'Release_Signed'">true</SignAssembly>
     <PackageId>Markdig.Wpf</PackageId>
     <PackageId Condition="'$(SignAssembly)' == 'true'">Markdig.Wpf.Signed</PackageId>

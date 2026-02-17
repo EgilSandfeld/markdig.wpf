@@ -6,7 +6,7 @@
     <AssemblyName>Markdig.Xaml.SampleApp</AssemblyName>
     <AssemblyTitle>Markdig.Xaml.SampleApp</AssemblyTitle>
     <NeutralLanguage>en-US</NeutralLanguage>
-    <VersionPrefix>0.5.0.1</VersionPrefix>
+    <VersionPrefix>0.5.0.2</VersionPrefix>
     <TargetFramework>net48</TargetFramework>
     <ApplicationIcon />
     <OutputType>WinExe</OutputType>
